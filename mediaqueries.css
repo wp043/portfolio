@@ -12,6 +12,9 @@
     section, .section-container {
       height: fit-content;
     }
+    .section-container {
+      margin-bottom: 7rem;
+    }
     .section__pic-container {
       width: 275px;
       height: 275px;
