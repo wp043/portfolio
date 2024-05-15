@@ -41,12 +41,16 @@
       margin: 0 5%;
     }
     .section__pic-container {
-      width: 275px;
+      width: auto;
       height: 275px;
-      margin: 0 auto 2rem;
+      justify-content: center;
+      margin-bottom: 2rem;
     }
     .about-containers {
       margin-top: 0;
+    }
+    .text-container {
+      text-align: center;
     }
   }
   
