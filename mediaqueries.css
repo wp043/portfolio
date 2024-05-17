@@ -19,6 +19,9 @@
       width: 275px;
       height: 275px;
     }
+    #hamburger-nav {
+      display: none;
+    }
   }
   
   @media screen and (max-width: 1200px) {
